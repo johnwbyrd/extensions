@@ -1,4 +1,4 @@
-Screen Reset by Brent Worthington begins here.
+Version 2 of Screen Reset by Brent Worthington begins here.
 
 "Allows the player to reset the screen."
 

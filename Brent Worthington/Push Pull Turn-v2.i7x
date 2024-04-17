@@ -1,4 +1,4 @@
-Push Pull Turn by Brent Worthington begins here.
+Version 2 of Push Pull Turn by Brent Worthington begins here.
 
 "Provides a framework for pushing, pulling and turning."
 

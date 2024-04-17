@@ -1,4 +1,4 @@
-Excess Word Stripping by Brent Worthington begins here.
+Version 2 of Excess Word Stripping by Brent Worthington begins here.
 
 "Allows commands that are only partly understood to be reparsed after trimming off the bits not understood."
 
